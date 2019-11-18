@@ -1,0 +1,1 @@
+{"jobID":"67f42870-dfaf-aa50-95e2-5632cf559aea","spec":{"type":"policy","cause":{"Message":"","User":"Olli Ries \u003colli@olli-ries.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
